@@ -1,0 +1,6 @@
+.ok,
+.resultado,
+.alerta,
+.erro {
+  white-space: pre-line;
+}

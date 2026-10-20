@@ -15,7 +15,7 @@ botao.onclick = () => {
   });
   const media = soma / NOTAS.length;
   texto += "\nMaior nota: " + maior;
-  texto += "\Soma: " + soma;
+  texto += "\nSoma: " + soma;
   texto += "\nMédia: " + media;
 
   mostrar(texto, "ok");
